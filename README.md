@@ -71,6 +71,8 @@ For reference: https://datacarpentry.org/r-socialsci/01-intro-to-r/index.html
 
 ## Day 3: Starting with Data
 
+Data for today: https://figshare.com/articles/dataset/SAFI_Survey_Results/6262019
+
 
 
 1. Files and folders/directories
@@ -94,3 +96,6 @@ Objectives
 * Reorder and rename factors.
 * Change how character strings are handled in a data frame.
 * Examine and change date formats.
+
+
+
