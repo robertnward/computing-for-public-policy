@@ -1,0 +1,44 @@
+---
+title: "stuff"
+author: "robert ward"
+date: "8/9/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+test <- c(1 , 5 ,4 ,3)
+
+test[test == 3 | test == 5]
+```
+
+# Vectors
+```{r}
+hh_members <- c(3, 7, 10, 6)
+respondent_wall_type <- c("muddaub", "burntbricks", "sunbricks", "sunbricks")
+```
+
+
+```{r}
+(rooms <- c(2, 1, 1, NA, 7))
+
+mean(rooms)
+
+max(rooms, na.rm = FALSE)
+
+
+
+rooms_clean <- rooms[!is.na(rooms)]   
+
+
+```
+```{r}
+library(ggplot2)
+
+```
+
+ 
