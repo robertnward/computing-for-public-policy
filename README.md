@@ -98,4 +98,11 @@ Objectives
 * Examine and change date formats.
 
 
+For extra practice and notes:
+- https://r4ds.had.co.nz/
+- also check out LinkedIn learning / Lynda for R tutorials.  You get free premium access through Georgia Tech!
+
+
+## Day 4: Data wrangling
+
 
