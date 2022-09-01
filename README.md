@@ -69,7 +69,7 @@ For reference: https://datacarpentry.org/r-socialsci/01-intro-to-r/index.html
 
 
 
-## Day 3: Starting with Data
+## Day 3-4: Starting with Data
 
 Data for today: https://figshare.com/articles/dataset/SAFI_Survey_Results/6262019
 
@@ -103,6 +103,40 @@ For extra practice and notes:
 - also check out LinkedIn learning / Lynda for R tutorials.  You get free premium access through Georgia Tech!
 
 
-## Day 4: Data wrangling
+## Day 4-6: Data wrangling
+
+Questions
+* How can I select specific rows and/or columns from a dataframe?
+* How can I combine multiple commands into a single command?
+* How can I create new columns or remove existing columns from a dataframe?
+* How can I reformat a dataframe to meet my needs?
+
+Objectives
+* Describe the purpose of an R package and the dplyr and tidyr packages.
+* Select certain columns in a dataframe with the dplyr function select.
+* Select certain rows in a dataframe according to filtering conditions with the dplyr function filter.
+* Link the output of one dplyr function to the input of another function with the ‘pipe’ operator %>%.
+* Add new columns to a dataframe that are functions of existing columns with mutate.
+* Use the split-apply-combine concept for data analysis.
+* Use summarize, group_by, and count to split a dataframe into groups of observations, apply a summary statistics for each group, and then combine the results.
+* Describe the concept of a wide and a long table format and for which purpose those formats are useful.
+* Describe the roles of variable names and their associated values when a table is reshaped.
+* Reshape a dataframe from long to wide format and back with the pivot_wider and pivot_longer commands from the tidyr package.
+* Export a dataframe to a csv file.
+
+## Day 7: Data Visualisation with ggplot2 and Review
+
+
+* What are the components of a ggplot?
+* How do I create scatterplots, boxplots, and barplots?
+* How can I change the aesthetics (ex. colour, transparency) of my plot?
+* How can I create multiple plots at once?
+
+Objectives
+* Produce scatter plots, boxplots, and barplots using ggplot.
+* Set universal plot settings.
+* Describe what faceting is and apply faceting in ggplot.
+* Modify the aesthetics of an existing ggplot plot (including axis labels and colour).
+* Build complex and customized plots from data in a data frame.
 
 
